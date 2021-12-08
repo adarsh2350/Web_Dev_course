@@ -1,0 +1,26 @@
+/*Element selector*/
+
+p{
+    color: yellow;
+    background-color: blue;
+}
+
+/*Class selector*/
+
+.class{
+    color: red;
+    background-color: black;
+}
+
+/*id-selector*/
+
+#firstpara{
+    color: chartreuse;
+    background-color: coral;
+}
+
+/*group-selector*/
+
+span,p{
+    border:3px solid  rgb(190, 33, 59);
+}

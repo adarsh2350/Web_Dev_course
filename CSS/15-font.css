@@ -1,0 +1,11 @@
+.div{
+    font-family: 'Roboto', sans-serif;
+    color: darkblue;
+    font-size: 33px;
+    line-height: 4em; /*em=factor of the height of the font*/
+}
+
+span{
+    font-weight: bolder;
+    color: red;
+}
