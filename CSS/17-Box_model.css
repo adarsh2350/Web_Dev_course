@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.box{
+    background-color: rgb(253, 193, 253);
+    border: 3px solid purple;
+    width: 529px;
+    height: 280px;
+    padding: 45px 30px 30px 30px;
+    margin: 20px 20px 30px 30px;
+    border-radius: 20px;
+}
+
+.i img{
+    border: 3px solid purple;
+    width: 529px;
+    height: 280px;
+    padding: 45px 45px 45px 45px;
+    margin: 20px 20px 30px 30px;
+    border-radius: 20px;
+}
